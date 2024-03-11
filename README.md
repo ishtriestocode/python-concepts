@@ -10,4 +10,7 @@ Functions in Python are blocks of reusable code designed to perform a specific t
 Lists are ordered collections of items in Python. They are mutable, meaning their elements can be changed. Lists are created by placing comma-separated values inside square brackets.
 
 4. Tuples
-Tuples are similar to lists, but they are immutable, meaning their elements cannot be changed after creation. Tuples are created by placing comma-separated values inside parentheses. 
+Tuples are similar to lists, but they are immutable, meaning their elements cannot be changed after creation. Tuples are created by placing comma-separated values inside parentheses.
+
+5.sets
+Sets are used to store multiple items in a single variable.A set is a collection which is unordered, unchangeable , and unindexed.
